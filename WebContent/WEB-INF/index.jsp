@@ -186,5 +186,6 @@ ${msg}
 	<input id="nyuuRyoku" type="text" placeholder="自由に入力して下さい！" name="text" />
 	<button id="hyouJi">表示</button>
 
+
 </body>
 </html>

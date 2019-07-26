@@ -17,7 +17,7 @@
 		<!--数据库访问用户名 -->
 		<property name="username" value="root"></property>
 		<!--数据库访问密码 -->
-		<property name="password" value="123456"></property>
+		<property name="password" value="root"></property>
 	</bean>
 
 	<!--spring提供的数据库访问操作类 -->
